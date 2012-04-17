@@ -1,0 +1,2 @@
+This is an integer deque. Woah, it only works with integers!?!
+I wrote it for practice in a data structures class to hlep me understand how these things work. Nothing special at all but it does illustrate in very basic terms how a Deque behaves with simple integers.
